@@ -4,10 +4,8 @@ const App = () => {
   return (
     <div>
       hello shafeeq
-      hello hisham
-      hello nifraz
-      hello irshana
-      hello haneena
+      <button>helo</button>
+
     </div>
   )
 }
