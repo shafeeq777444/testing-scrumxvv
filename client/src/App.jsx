@@ -6,6 +6,8 @@ const App = () => {
       hello shafeeq
       hello hisham
       hello nifraz
+      hello haneena
+      helli irshana
     </div>
   )
 }
